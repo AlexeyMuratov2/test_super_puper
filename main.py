@@ -17,4 +17,4 @@ if __name__ == '__main__':
 print('ll1')
 print('Hello world')
 print('кто прочитал, тот оживет')
-print('жопа страуса')
+print('жопа слона')

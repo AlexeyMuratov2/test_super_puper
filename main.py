@@ -16,3 +16,4 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print('ll1')
 print('Hello world')
+print('кто прочитал, тот оживет')

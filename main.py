@@ -24,4 +24,7 @@ def yupi():
     return 1
 
 def printed():
-    print(hello)
+    print('hello')
+
+def check_merge():
+    print('oh no')

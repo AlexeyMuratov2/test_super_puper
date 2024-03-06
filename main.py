@@ -36,3 +36,5 @@ print('haha')
 print('hhhhh')
 def check_merge():
     print('oh no')
+
+print('NO')

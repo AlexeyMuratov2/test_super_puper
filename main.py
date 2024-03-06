@@ -42,6 +42,7 @@ print('NO')
 def one_plus_one():
     return 1 + 1
 
+
 def three_plus_three():
     return 3 + 3
 

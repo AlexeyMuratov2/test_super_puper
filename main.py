@@ -23,10 +23,13 @@ print('123321')
 def yupi():
     return 1
 
-print(';k')
+def printed():
+    print('hello')
 
 def yupi():
     return 1
 
 print('haha')
 print('hhhhh')
+def check_merge():
+    print('oh no')

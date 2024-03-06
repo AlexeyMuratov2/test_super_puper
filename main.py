@@ -19,3 +19,6 @@ print('Hello world')
 print('кто прочитал, тот оживет')
 print('жопа слона')
 print('123321')
+
+def yupi():
+    return 1

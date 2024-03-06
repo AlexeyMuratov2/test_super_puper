@@ -38,3 +38,6 @@ def check_merge():
     print('oh no')
 
 print('NO')
+
+def one_plus_one():
+    return 1 + 1

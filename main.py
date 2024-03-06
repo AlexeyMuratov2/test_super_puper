@@ -22,3 +22,10 @@ print('123321')
 
 def yupi():
     return 1
+
+print(';k')
+
+def yupi():
+    return 1
+
+print('haha')

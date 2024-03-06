@@ -22,3 +22,6 @@ print('123321')
 
 def yupi():
     return 1
+
+def printed():
+    print(hello)
